@@ -4,5 +4,3 @@ In this calculator if you press any button then it will speak out which button y
 
 If you want the complet project in a apk format then download it from :
     https://drive.google.com/file/d/1-c1mHYSM3WFh-uHk3XG5LlVmOjh1StnN/view?usp=drivesdk   
-
-And i am upgrading it to a complete next level, so if want to get the code of upgraded version too then pls follow me 
